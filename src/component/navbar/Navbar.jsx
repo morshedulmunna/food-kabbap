@@ -4,7 +4,7 @@ import { logo } from "../../images/indexImg";
 const Navbar = () => {
   return (
     <>
-      
+      <nav></nav>
     </>
   );
 };
