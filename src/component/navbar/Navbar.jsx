@@ -4,12 +4,7 @@ import { logo } from "../../images/indexImg";
 const Navbar = () => {
   return (
     <>
-      <div className=" bg-cyan-300 h-12 w-full">
-        <img src={logo} alt="" />
-
-        <h2>Hello From Munna</h2>
-        <h3>Munna</h3>
-      </div>
+      
     </>
   );
 };
