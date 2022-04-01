@@ -8,6 +8,7 @@ const Navbar = () => {
         <img src={logo} alt="" />
 
         <h2>Hello From Munna</h2>
+        <h3>Munna</h3>
       </div>
     </>
   );
